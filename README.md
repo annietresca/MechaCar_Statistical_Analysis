@@ -12,6 +12,10 @@ Deliverable 3: T-Test on Suspension Coils
 
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
+## Resources
+
+Software: R studio
+
 ## Linear Regression to Predict MPG
 Using the MechaCar_mpg.csv file, I created a linear regression model that predicts the mpg of prototypes. 
 ![Deliverable 1](https://github.com/annietresca/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201%20pvalue.png) 
